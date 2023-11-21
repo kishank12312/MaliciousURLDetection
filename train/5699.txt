@@ -1,0 +1,8 @@
+http://www.destro.nl/index.php?option=com_phocagallery&view=category&id=40:amsterdam-oost&Itemid=8
+defacement
+3 2
+0 1
+0 2
+98 77 3 0 1 1 4 3 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 13 1 0 4 2 1 0 
+30 23 0 0 0 0 0 3 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 13 1 0 4 2 1 0 
+26 19 0 0 0 0 0 2 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 13 2 0 4 2 1 0 

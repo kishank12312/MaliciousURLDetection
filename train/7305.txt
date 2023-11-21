@@ -1,0 +1,10 @@
+http://troikacapital.ru/registratsiya_snt_v_moskve_lubertsah_ramenskom_zhukovskom_vidnom_reutove_drugih_gorodah_moskovskoy_oblasti
+malware
+4 3
+0 3
+0 1
+1 2
+130 113 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 16 1 0 2 2 1 0 
+45 38 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 16 1 0 4 2 1 0 
+19 13 0 0 0 0 0 2 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 10 1 0 0 2 1 0 
+52 41 0 0 0 0 0 3 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 10 5 0 0 2 1 0 

@@ -1,0 +1,22 @@
+http://florianrestaurant.com/index.php?option=com_mailto&tmpl=component&link=aHR0cDovL2Zsb3JpYW5yZXN0YXVyYW50LmNvbS9pbmRleC5waHA%2Fb3B0aW9uPWNvbV9jb250ZW50JnZpZXc9YXJ0aWNsZSZpZD02OCUzQWFib3V0LXVzJkl0ZW1pZD0xMzEmbGFuZz1wdA==&lang=pt
+defacement
+10 9
+1 3
+1 0
+1 9
+1 7
+1 6
+1 8
+1 2
+1 4
+1 5
+29 24 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 21 1 0 0 3 1 0 
+231 184 29 0 1 0 6 2 0 1 0 0 0 0 0 0 0 1 0 0 0 0 1 21 1 0 10 3 1 0 
+34 28 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 21 2 0 0 3 1 0 
+33 27 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 21 2 0 0 3 1 0 
+34 28 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 21 1 0 0 3 1 0 
+25 19 0 0 0 0 0 2 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 16 1 0 0 3 1 0 
+55 46 0 0 0 1 0 3 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 18 2 0 0 3 1 0 
+38 32 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 21 1 0 0 3 1 0 
+41 34 0 0 0 0 0 2 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 16 2 0 0 3 1 0 
+55 46 0 0 0 1 0 3 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 18 2 0 0 3 1 0 

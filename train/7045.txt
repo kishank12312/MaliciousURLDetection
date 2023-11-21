@@ -1,0 +1,6 @@
+http://stock.perm.ru/index.php?limitstart=3
+defacement
+2 1
+0 1
+43 33 1 0 1 0 1 3 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 13 1 0 1 2 1 0 
+23 18 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 14 0 0 0 2 1 0 

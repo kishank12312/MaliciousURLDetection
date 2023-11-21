@@ -1,0 +1,6 @@
+http://stock.perm.ru/index.php?option=com_zoo&view=item&item_id=33&Itemid=205
+defacement
+2 1
+0 1
+77 55 5 0 1 0 4 3 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 13 1 0 1 2 1 0 
+23 18 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 14 0 0 0 2 1 0 

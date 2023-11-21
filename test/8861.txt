@@ -1,0 +1,8 @@
+http://www.adriaszalon.hu/index.php?option=com_virtuemart&page=shop.browse&category_id=32&Itemid=80
+defacement
+3 2
+0 1
+0 2
+99 77 4 0 1 0 4 4 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 18 1 0 5 2 1 0 
+26 20 0 0 0 0 0 2 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 18 1 0 5 2 1 0 
+35 28 0 0 0 0 0 3 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 18 1 0 5 2 1 0 

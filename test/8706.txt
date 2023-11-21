@@ -1,0 +1,22 @@
+http://www.lacos.de/cms_neu/index.php?option=com_mailto&tmpl=component&link=aHR0cDovL3d3dy5sYWNvcy5kZS9jbXNfbmV1L2luZGV4LnBocD9vcHRpb249Y29tX2NvbnRlbnQmdmlldz1hcnRpY2xlJmlkPTMyJTNBcHJlc3NlJmNhdGlkPTEzJmxhbmc9ZGU=&lang=de
+defacement
+10 9
+4 8
+4 6
+4 7
+4 0
+4 9
+4 3
+4 5
+4 1
+4 2
+20 14 0 0 0 0 0 2 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 12 1 0 0 2 1 0 
+53 45 0 0 0 1 0 2 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 12 2 0 0 2 1 0 
+54 46 0 0 0 1 0 2 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 12 2 0 0 2 1 0 
+51 42 0 0 0 2 0 2 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 12 2 0 0 2 1 0 
+220 181 20 0 1 0 5 3 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 12 2 0 9 2 1 0 
+56 47 0 0 0 2 0 2 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 12 2 0 0 2 1 0 
+58 49 0 0 0 2 0 2 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 12 2 0 0 2 1 0 
+52 44 0 0 0 1 0 2 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 12 2 0 0 2 1 0 
+52 44 0 0 0 1 0 2 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 12 2 0 0 2 1 0 
+37 30 0 0 0 1 0 2 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 12 1 0 0 2 1 0 

@@ -1,0 +1,12 @@
+http://www.imoconcept.de/index.php?view=properties&id=100:herrschaftliches-a-denkmalgeschuetztes-zweifamilienhaus-in-dortmund-dorstfeld&option=com_jea&Itemid=54
+defacement
+5 4
+3 2
+3 1
+3 0
+3 4
+34 27 0 0 0 0 0 3 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 17 1 0 24 2 1 0 
+49 40 0 0 0 0 0 3 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 17 3 0 0 2 1 0 
+28 22 0 0 0 0 0 2 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 17 1 0 0 2 1 0 
+160 132 5 0 1 6 4 3 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 17 1 0 24 2 1 0 
+27 22 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 18 0 0 0 2 1 0 

@@ -1,0 +1,22 @@
+http://www.ninopizzaria.com.br/index.php?option=com_mailto&tmpl=component&link=aHR0cDovL3d3dy5uaW5vcGl6emFyaWEuY29tLmJyL2luZGV4LnBocD9vcHRpb249Y29tX2NvbnRlbnQmdmlldz1hcnRpY2xlJmlkPTExNTpzZWxmLXNlcnZpY2UtY2FyZGFwaW8tZGUtaG9qZSZjYXRpZD00MzpjYXJkYXBpbyZJdGVtaWQ9NjM=
+defacement
+10 9
+4 5
+5 3
+5 0
+5 9
+5 2
+5 7
+5 8
+5 6
+5 1
+36 29 0 0 0 0 0 2 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 16 2 0 0 3 1 0 
+30 24 0 0 0 0 0 2 0 0 0 0 0 0 0 1 1 1 0 0 0 0 1 17 1 0 0 3 1 0 
+29 23 0 0 0 0 0 2 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 14 1 0 0 3 1 0 
+32 25 0 0 0 0 0 2 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 15 2 0 0 3 1 0 
+263 221 26 0 1 0 4 4 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 23 1 0 1 6 1 0 
+23 18 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 15 1 0 8 3 1 0 
+25 20 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 11 1 0 0 3 1 0 
+29 22 0 0 0 0 0 2 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 13 2 0 0 3 1 0 
+18 13 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 9 1 0 0 3 1 0 
+22 16 0 0 0 0 0 2 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 13 1 0 0 3 1 0 

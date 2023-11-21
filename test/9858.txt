@@ -1,0 +1,22 @@
+http://www.axelsmeyer.de/index.php?option=com_mailto&tmpl=component&link=aHR0cDovL3d3dy5heGVsc21leWVyLmRlL2luZGV4LnBocD9vcHRpb249Y29tX2NvbnRlbnQmdmlldz1hcnRpY2xlJmlkPTYxJTNBbmV1ZXMtMiZjYXRpZD0xJTNBYWt0dWVsbGUtbmFjaHJpY2h0ZW4mSXRlbWlkPTE=
+defacement
+10 9
+6 9
+9 0
+9 3
+9 8
+9 4
+9 2
+9 1
+9 5
+9 7
+35 28 0 0 0 0 0 3 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 17 1 0 0 2 1 0 
+40 34 0 0 0 0 0 2 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 16 1 0 0 3 1 0 
+34 27 0 0 0 0 0 3 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 17 1 0 0 2 1 0 
+39 30 0 0 0 0 0 2 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 17 2 0 0 3 1 0 
+19 15 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 11 0 0 0 2 1 0 
+37 30 0 0 0 0 0 3 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 17 1 0 0 2 1 0 
+237 199 23 0 1 0 4 3 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 17 1 0 1 2 1 0 
+36 29 0 0 0 0 0 3 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 17 1 0 0 2 1 0 
+24 19 0 0 0 0 0 2 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 17 0 0 0 2 1 0 
+240 201 24 0 0 0 4 3 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 17 1 0 10 2 1 0 

@@ -1,0 +1,22 @@
+http://www.fdp-muenchen-west.de/index.php?option=com_mailto&tmpl=component&link=aHR0cDovL3d3dy5mZHAtbXVlbmNoZW4td2VzdC5kZS9pbmRleC5waHA%2Fb3B0aW9uPWNvbV9jb250ZW50JnZpZXc9YXJ0aWNsZSZpZD0xNzM6Z29sZGZpZWJlci1pbS1tdWVuY2huZXItd2VzdGVu
+defacement
+10 9
+0 7
+0 9
+0 2
+0 8
+0 4
+0 3
+0 1
+0 5
+6 0
+41 33 0 0 0 2 0 2 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 24 1 0 14 2 1 0 
+39 31 0 0 0 2 0 2 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 24 1 0 0 2 1 0 
+32 24 0 0 0 2 0 2 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 24 1 0 0 2 1 0 
+40 34 0 0 0 0 0 2 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 16 1 0 0 3 1 0 
+55 43 1 0 0 5 0 2 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 24 1 0 0 2 1 0 
+41 32 0 0 0 2 0 3 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 24 1 0 0 2 1 0 
+230 184 29 0 1 2 3 3 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 24 1 0 3 2 1 0 
+41 31 1 0 0 3 0 2 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 24 1 0 0 2 1 0 
+87 73 0 0 0 8 0 2 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 24 1 0 0 2 1 0 
+56 46 0 0 0 4 0 2 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 24 1 0 0 2 1 0 

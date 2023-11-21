@@ -1,0 +1,6 @@
+http://www.jin0044.com/ipl/app/help.php?GameType=5837&lang=zh-cn&HALLID=3820004&State=0
+malware
+2 1
+1 0
+39 26 4 0 0 0 0 3 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 15 3 0 1 3 1 0 
+87 53 16 0 1 1 4 3 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 15 3 0 1 3 1 0 

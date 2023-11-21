@@ -1,0 +1,10 @@
+https://bitbucket.org/nilsudemir1881/hayatevesigar/downloads/SenEvdesinDiye_build_obf.apk
+malware
+4 3
+2 3
+2 1
+2 0
+37 30 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 1 0 0 13 3 0 0 3 1 0 
+34 27 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 21 0 0 0 0 1 0 
+89 74 4 0 0 0 0 2 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 13 4 0 3 3 1 0 
+40 34 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 13 2 0 0 3 1 0 
